@@ -148,3 +148,15 @@ header.p-section {
   padding: 0 0.25em;
   bottom: 0.2em;
 }
+
+.mt-5 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  width: 350px;
+}
+
+.contact-bottom {
+  display: flex;
+  justify-content: center;
+}
